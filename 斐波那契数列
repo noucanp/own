@@ -1,6 +1,7 @@
 #include <stdio.h>
 int f(int n);
 int a[999]={0};
+/*斐波那契*/
 int main()
 {
 	int n=0;
